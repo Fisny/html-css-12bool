@@ -1,0 +1,22 @@
+.col, .col-xs{
+    height: 200px;
+    background-color: pink;
+    border: 1px solid black;
+    text-align: center;
+    line-height: 200px;
+    
+}
+
+.row{
+    height: 100%;
+}
+
+[class*="col"] > .row > [class*="col"]{
+    background-color: rgb(255, 104, 129);
+    height: 100%;
+    border: 1px solid white;
+}
+
+.row-pad{
+    padding: 10px;
+}
