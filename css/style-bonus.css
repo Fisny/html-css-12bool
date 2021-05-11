@@ -1,0 +1,32 @@
+.col, .col-xs{
+    height: 100px;
+   
+}
+
+.brown{
+    background-color: rgb(54, 18, 18);
+}
+
+.pink{
+    background-color: burlywood;
+}
+
+.d-pink{
+    background-color: rgb(185, 138, 75);
+}
+
+.dd-pink{
+    background-color: rgb(105, 74, 33);
+}
+
+.white{
+    background-color: white;
+}
+
+.cyan{
+    background-color: teal;
+}
+
+.l-pink{
+    background-color: rgb(185, 110, 75);
+}
