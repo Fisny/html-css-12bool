@@ -2,9 +2,7 @@
     height: 200px;
     background-color: pink;
     border: 1px solid black;
-    text-align: center;
-    line-height: 200px;
-    
+    text-align: center; 
 }
 
 .row{
@@ -19,4 +17,10 @@
 
 .row-pad{
     padding: 10px;
+}
+
+.col{
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
